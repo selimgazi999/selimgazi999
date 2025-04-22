@@ -5,15 +5,15 @@
 #EXT-X-TARGETDURATION:6
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXTINF:6.00000000,
-http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/538.ts
+http://kst.moonplex.net:8080/CH1/index.m3u8
 #EXTINF:6.00000000,
-http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/538.ts
+http://kst.moonplex.net:8080/CH1/index.m3u8
 #EXTINF:6.00000000,
-http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/538.ts
+http://kst.moonplex.net:8080/CH1/index.m3u8
 #EXTINF:6.00000000,
-http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/538.ts
+http://kst.moonplex.net:8080/CH1/index.m3u8
 #EXTINF:6.00000000,
-http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/538.ts
+http://kst.moonplex.net:8080/CH1/index.m3u8
 
 # userAgent:Mozilla/5.0 (Linux; Android 12; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36
 # time:1745193262
